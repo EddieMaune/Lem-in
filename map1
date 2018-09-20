@@ -1,0 +1,20 @@
+#comment
+#scnaj
+#jflahfk
+30
+#comment
+##start
+jhb 0 2
+##end
+cpt 0 3
+bloem 0 4
+kim 0 5
+kzn 0 6
+pe 0 7
+jhb-kzn
+kzn-pe
+pe-cpt
+jhb-bloem
+bloem-cpt
+jhb-kim
+kim-cpt
